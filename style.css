@@ -1,0 +1,31 @@
+.title, .subheadings, .prices {
+    font-family: Helvetica;
+}
+
+.title {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(./images/pattern.webp);
+    text-align: center;
+}
+
+.prices{
+    font-weight: bold;
+    color: blue;
+}
+.subheadings {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+.frames {
+    background-color: lightcoral;
+}
+.paint {
+    background-color: skyblue;
+}
